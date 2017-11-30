@@ -14,9 +14,5 @@ Read how to integrate with paypal
 
 --------------------------------------------------------------------------------
 
-Business and Subject versions : http://phpexamscript.net
 
---------------------------------------------------------------------------------
-
-
-Developed by PhpExamScript.net
+Developed by Dr.Els
