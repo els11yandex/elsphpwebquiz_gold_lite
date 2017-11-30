@@ -1,0 +1,6 @@
+<iframe id="iframe1"  style="width:550;height:[height]"  
+name="iframe1" 
+src="[URL]attach_rating.php?rate=[RATE_ID]&site=[URL]&mode=[MODE]&lang=[LANG]&type=frame&product=product1"  
+allowtransparency="true" 
+scrolling="auto"  marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0" >
+</iframe>

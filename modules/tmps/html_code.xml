@@ -1,0 +1,8 @@
+<link href="[URL]style/ratings.css" type="text/css" rel="stylesheet" />
+<script language="javascript" src="[URL]jquery.js" type="text/javascript" ></script>                
+<script language="javascript" src="[URL]ratings.js" type="text/javascript" ></script>                        
+
+<script language="javascript" type="text/javascript">            
+      DrowRating('product1',[RATE_ID], '[URL]','[MODE]','[LANG]','local');            
+</script>                                
+<div id="product1"></div>    

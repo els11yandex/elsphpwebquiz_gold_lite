@@ -1,0 +1,402 @@
+
+.c_menu_td
+{
+    width:150px;
+    valign:top;
+    align:rigth;    
+    background-color : white;
+    padding-left: 20px;
+}
+
+.main_table
+{
+	background-color : #F4F5F7;
+	margin : 20px;
+	width : 97%;
+        cellpadding:0;
+        cellspacing:0;
+}
+
+.main_table_desc_text
+{
+	color:#F4F5F7;
+	font-size : 16px;
+	font-family:arial;
+	font-weight : bold;
+}
+.menu_child_name
+{
+	color:#18A0FF;
+	font-size : 12px;
+	font-weight : regular;
+	font-family:tahoma;
+}
+
+.st_button{
+    width:100px;
+}
+
+.st_txtbox
+{
+    width:200px;
+}
+
+.desc_text
+{
+	color:black;	
+	font-size : 12px;		
+	font-family:tahoma;	
+}
+
+.desc_text_bg
+{
+	color:black;
+	font-size : 13px;
+	font-family:tahoma;	
+}
+
+.desc_text_bg2
+{
+	color:black;
+	font-size : 13px;
+	font-family:tahoma;
+        font-weight : bold;
+}
+
+.login_box
+{
+	width:200px;
+	height:17px;
+	font-size:11px;
+	color:#7D848C;
+	font-size : 11px;
+	font-family:tahoma;
+
+}
+
+.main_txt_lt
+{
+	color:#7D848C;
+	font-size : 11px;
+	font-family:tahoma;
+	font-weight : bold;
+}
+
+.empty_data
+{
+	color:red;
+	font-size : 12px;
+	font-family:tahoma;
+	font-weight : bold;
+}
+
+.qst_main_table
+{
+        border-style: dotted;
+        border-color: Black;
+        width:600px;
+}
+
+.qst_ans_table
+{
+        border-style: dotted;
+        border-color: Black;
+        width:600px;
+}
+
+.footer_text
+{
+	color:red;
+	font-size : 12px;
+	font-family:tahoma;
+}
+
+.header_text
+{
+	color:black;
+	font-size : 12px;
+	font-family:tahoma;
+}
+
+.c_timer
+{
+        color:red;
+	font-size : 13px;
+	font-family:tahoma;
+}
+
+.query
+{        
+	font-size : 12px;
+	font-family:tahoma;
+}
+.query_head
+{
+    color:red;
+    font-size : 12px;
+    font-family:tahoma;
+}
+.grd_auto_id
+{
+    color:red;
+}
+.rating_preview
+{
+    color:green;
+    font-size : 14px;
+    font-family:tahoma;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.DHTR_Grid_Row td
+{
+    border-right: black 1px solid;
+    border-top: black 1px solid;
+    border-left: black 1px solid;
+    border-bottom: black 1px solid;
+}
+.menu_bg
+{
+	BACKROUND-COLOR: #F4F5F7;
+	PADDING-LEFT: 20px;
+}
+.menu_header_name
+{
+	color :#B0B0B0 ;
+	font-size : 13px;	
+	font-weight : bold;
+	font-family:tahoma;
+}
+
+
+
+
+
+
+
+
+
+.intro_text
+{
+	color:black;	
+	font-size : 13px;		
+	font-family:tahoma;	
+	
+}
+
+
+.q_text
+{
+	color:black;	
+	font-size : 14px;		
+	font-family:tahoma;	
+}
+
+
+
+
+
+
+.simple_header
+{
+	color:#7D848C;	
+	font-size : 13px;		
+	font-family:tahoma;
+	font-weight : bold;
+}
+
+.simple_text
+{
+	color:#7D848C;	
+	font-size : 11px;		
+	font-family:tahoma;
+}
+
+.otd_header
+{
+	color:#7D848C;	
+	font-size : 13px;		
+	font-family:tahoma;
+}
+
+.logout
+{
+	color:blue	;
+	font-size : 16px;		
+	font-family:arial;
+}
+
+
+
+.pager_text
+{
+	color:#7D848C;	
+	font-size : 11px;		
+	font-family:tahoma;
+}
+
+.text_desc
+{	
+	font-size : 15px;		
+	font-family:arial;
+}
+
+.pager_dropdown
+{
+	height : 10px%;
+}
+.pager_selected
+{
+	color:#E75A12;	
+	font-size : 11px;		
+	font-family:tahoma;
+}
+
+.button
+{
+	color:#E75A12;	
+	font-size : 11px;		
+	font-family:tahoma;
+	font-weight : bold;
+}
+
+.grid_link
+{
+	color:#7D848C;	
+	font-size : 11px;		
+	font-family:tahoma;
+	font-weight : bold;
+}
+
+.c_link_item
+{
+	color:blue;	
+	font-size : 11px;		
+	font-family:tahoma;
+	font-weight : bold;	
+}
+
+.search_box
+{
+	width:110px;	
+}
+
+.simple_box
+{
+	width:250px;
+}
+
+
+
+.sent_params_header
+{	
+	color:white;	
+	font-size : 11px;
+	font-family:tahoma;
+	font-weight : bold;
+}
+
+.sent_params
+{
+	color:white;	
+	font-size : 11px;
+	font-family:tahoma;	
+}
+
+.results_table
+{
+	background-color:white;
+	color:black;	
+	border:0;
+	width:270px;
+}
+
+.otd_results_table
+{
+	background-color:#767F86;
+	color:White;	
+	border:0;
+	width:100%;
+}
+
+select1 {
+width: 125px; 
+border-right: red 2px solid;
+border-top: red 2px solid; 
+border-left: red 2px solid; 
+border-bottom: red 2px solid; 
+background-color: #fffffe;
+}
+
+.href
+{
+	color:#E75A12;	
+	font-size : 11px;		
+	font-family:tahoma;
+	font-weight : bold;
+}
+
+.btn {FONT-WEIGHT: bold; FONT-SIZE: 11px; border-width: 0; FONT-FAMILY: arial, helvetica, sans-serif; COLOR: #767F86; BACKGROUND-COLOR: #E7EEF8; width: 80px;}
+.btn2 {FONT-WEIGHT: bold; FONT-SIZE: 12px; border-width: 0; FONT-FAMILY: arial, helvetica, sans-serif; COLOR: #767F86; BACKGROUND-COLOR: #E7EEF8; width: 70px;}
+.btn3 {FONT-WEIGHT: bold; FONT-SIZE: 12px; border-width: 0; FONT-FAMILY: arial, helvetica, sans-serif; COLOR: #E7EEF8; BACKGROUND-COLOR: #767F86; width: 70px;}
+
+BODY {PADDING-RIGHT: 0px; PADDING-LEFT: 0px; font-size : 11px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif}
+a
+{
+	color:#E75A12;	
+	font-size : 12px;		
+	font-family:tahoma;
+	font-weight : bold;
+}
+
+.CustomComboBoxStyle .ajax__combobox_itemlist {
+    background-color: #ADD8E6;
+    border: solid 1px red;	    
+}
+
+.payment_added 
+{
+	color:red;	
+	font-size : 16px;		
+	font-family:tahoma;
+	font-weight : bold;
+}
+
+.payments_link 
+{
+	color:blue;	
+	font-size : 16px;		
+	font-family:tahoma;
+	font-weight : bold;
+}
+
+.chq
+{
+	color:black;	
+	font-size : 15px;		
+	font-family:Times New Roman;
+	font-weight : bold;
+}
+.chq2
+{
+	color:black;	
+	font-size : 13px;		
+	font-family:Times New Roman;
+	font-weight : bold;
+}
+.chql
+{
+	color:black;	
+	font-size : 15px;		
+	font-family:Times New Roman;
+}

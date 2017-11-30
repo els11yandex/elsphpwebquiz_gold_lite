@@ -1,0 +1,22 @@
+<table width="270px"  bgcolor="#E7EEF8">
+        <tr>
+            <td>
+                
+            </td>
+        </tr>
+       <tr>
+           <td align="right" class="main_txt_lt" >[LOGIN] :</td>
+           <td><input class="login_box" type="text" name="txtLogin" id="txtLogin"></td>
+       </tr>
+       <tr>
+           <td align="right" class="main_txt_lt">[PASSWORD] :</td>
+           <td><input class="login_box" type="password" name="txtPassword" id="txtPassword"></td>
+       </tr>
+       <tr>
+           <td align="center" colspan="2"><input style="width:70px" id="btnLogin" onclick="Login([rate_id],'[prod_id]')" type="button" value="[RATE]" />
+               <input style="width:70px" onclick="Cancel()" type="button" value="[CANCEL]" />
+               <input type="hidden" id="hdnWait" value="[WAIT]" /> 
+               <input type="hidden" id="hdnRate" value="[RATE]" /> 
+           </td>           
+       </tr>
+</table>

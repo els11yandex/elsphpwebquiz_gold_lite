@@ -1,0 +1,31 @@
+<table align="left" cellpadding=5 cellspacing=5 border=0 width="90%">
+    <tr>
+        <td class="header_text">
+            [header_text]
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <font face="tahoma" size="4"><b>[question_text]</b></font>
+        </td>
+    </tr>    
+    <tr>
+        <td align="left" class="qst_ans_table">
+           <table border=0 width="100%">
+                <tr>
+                    <td class="desc_text_bg2" colspan=2>
+                        [group_name]
+                    </td>
+                </tr>
+                [answers]
+            </table>            
+        </td>
+    </tr>
+
+    <tr>
+        <td class="footer_text">[hiddens]
+            [footer_text]
+        </td>
+    </tr>
+    [buttons]
+</table>
